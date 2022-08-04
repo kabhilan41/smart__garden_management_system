@@ -1,0 +1,114 @@
+{
+  "crop_data" : [ {
+    "moist_high" : "300",
+    "moist_low" : "150",
+    "name" : "Rice",
+    "temp_high" : "32",
+    "temp_low" : "22"
+  }, {
+    "moist_high" : "100",
+    "moist_low" : "75",
+    "name" : "Wheat",
+    "temp_high" : "26",
+    "temp_low" : "10"
+  }, {
+    "moist_high" : "100",
+    "moist_low" : "50",
+    "name" : "Millets",
+    "temp_high" : "32",
+    "temp_low" : "27"
+  }, {
+    "moist_high" : "45",
+    "moist_low" : "40",
+    "name" : "Grams",
+    "temp_high" : "25",
+    "temp_low" : "20"
+  }, {
+    "moist_high" : "150",
+    "moist_low" : "75",
+    "name" : "Sugar Cane",
+    "temp_high" : "27",
+    "temp_low" : "21"
+  }, {
+    "moist_high" : "100",
+    "moist_low" : "50",
+    "name" : "Cotton",
+    "temp_high" : "30",
+    "temp_low" : "21"
+  }, {
+    "moist_high" : "75",
+    "moist_low" : "50",
+    "name" : "Oilseeds",
+    "temp_high" : "30",
+    "temp_low" : "20"
+  }, {
+    "moist_high" : "300",
+    "moist_low" : "150",
+    "name" : "Tea",
+    "temp_high" : "30",
+    "temp_low" : "20"
+  }, {
+    "moist_high" : "250",
+    "moist_low" : "150",
+    "name" : "Coffee",
+    "temp_high" : "28",
+    "temp_low" : "15"
+  }, {
+    "moist_high" : "220",
+    "moist_low" : "120",
+    "name" : "Banana",
+    "temp_high" : "30",
+    "temp_low" : "20"
+  }, {
+    "moist_high" : "50",
+    "moist_low" : "30",
+    "name" : "Beans",
+    "temp_high" : "27",
+    "temp_low" : "10"
+  }, {
+    "moist_high" : "50",
+    "moist_low" : "35",
+    "name" : "Cabbage",
+    "temp_high" : "21",
+    "temp_low" : "15"
+  }, {
+    "moist_high" : "60",
+    "moist_low" : "40",
+    "name" : "Melon",
+    "temp_high" : "35",
+    "temp_low" : "18"
+  }, {
+    "moist_high" : "55",
+    "moist_low" : "35",
+    "name" : "Onion",
+    "temp_high" : "25",
+    "temp_low" : "20"
+  }, {
+    "moist_high" : "70",
+    "moist_low" : "50",
+    "name" : "Potato",
+    "temp_high" : "20",
+    "temp_low" : "15"
+  }, {
+    "moist_high" : "50",
+    "moist_low" : "35",
+    "name" : "Peas",
+    "temp_high" : "18",
+    "temp_low" : "10"
+  }, {
+    "moist_high" : "80",
+    "moist_low" : "40",
+    "name" : "Tomato",
+    "temp_high" : "32",
+    "temp_low" : "15"
+  } ],
+  "enter the project bucket here" : {
+    "humidity" : "30",
+    "light" : "4.887585532746823",
+    "moisture" : "30.987292277614856",
+    "motor_state" : "2",
+    "pi_state" : "1",
+    "temperature" : "50",
+    "update" : "0"
+  }
+}
